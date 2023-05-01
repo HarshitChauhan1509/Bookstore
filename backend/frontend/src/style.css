@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+
+.footer{
+    margin-bottom: 0%;
+    margin-top: 100%;
+
+}
+
+
+.inputBox{
+    border-radius: 20px;
+    display: flex;
+
+}
